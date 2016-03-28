@@ -1,10 +1,19 @@
-{
-	"name": "",
-	"path": "findfiles-recursive.js"
-}{
-	"name": "",
-	"path": "findfiles.js"
-}{
-	"name": "lvl1",
-	"path": "lvl1/lvl1.js"
-}
+[
+	{
+		"filename": "findfiles-recursive.js",
+		"friendlyName": "findfiles-recursive.js",
+		"filePath": "findfiles-recursive.js"
+	}
+],[
+	{
+		"filename": "findfiles.js",
+		"friendlyName": "findfiles.js",
+		"filePath": "findfiles.js"
+	}
+],[
+	{
+		"filename": "lvl1.js",
+		"friendlyName": "lvl1/lvl1.js",
+		"filePath": "lvl1/lvl1.js"
+	}
+]
